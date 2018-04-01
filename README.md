@@ -1,1 +1,1 @@
-# Analysis Given Data Set and Plotting Graphs.
+# Analysis of Given Data Set and Plotting Graphs.
